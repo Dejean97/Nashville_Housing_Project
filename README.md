@@ -11,8 +11,28 @@ Having downloaded the data of interest, the data was imported into Microsoft SQL
 
 ### Actions in SQL
 
-#### Actions in SQL
+#### Standardise date formats
 
    - This involved the 
+
+#### Populate missing property addresses
+
+   - T
+
+#### Splitting property and owner address into street, city and state
+
+   - T
+
+#### Standardise 'SoldAsVacant' format
+
+   - T
+
+#### Delete duplicate rows
+
+   - T
+
+#### Drop unused columns
+
+   - T
 
 ### Roundup
