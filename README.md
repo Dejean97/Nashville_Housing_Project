@@ -11,7 +11,7 @@ Having downloaded the data of interest, the data was imported into Microsoft SQL
 
 ### Actions in SQL
 
-#### Standardise date formats
+#### Actions in SQL
 
    - This involved the 
 
