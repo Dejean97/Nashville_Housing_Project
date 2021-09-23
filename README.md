@@ -42,6 +42,6 @@ Having downloaded the data of interest, the data was imported into Microsoft SQL
 
    - Having created a correctly formatted SaleDate field and split out both address fields the original SaleDate, OwnerAddress, PropertyAddress became redundant/unused so were dropped from the table as well as any other unused or non-required fields.
 
-### Roundup
+## Roundup
 
 In summary, fairly basic concepts and functions were used to carry out fundamental data cleaning SQL. This was straightforward to carry out and saved queries makes for an easy follow along, however in production it’s highly unlikely you would clean/manipulate raw data tables (nor do I think you should). I’d expect you’d clean data as part of the ETL process (prior to import), when creating regularly used views or in python/excel before analysis. Regardless, it’s good to practice these things as it provides options and an understanding if you were setting up an ETL process and automating the cleaning.
